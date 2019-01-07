@@ -6,16 +6,16 @@ The Segment Routing architecture can be implemented using MPLS or IPv6 as data p
 
 ### Scientific papers, technical reports, IETF drafts, Slides
 
-- A. Mayer, S. Salsano, P.L. Ventre, A. Abdelsalam, L. Chiaraviglio, C. Filsfils, "[An Efficient Linux Kernel Implementation of Service Function Chaining for legacy VNFs based on IPv6 Segment Routing](https://arxiv.org/abs/1901.00936)", submitted to 
+- A. Mayer, S. Salsano, P.L. Ventre, A. Abdelsalam, L. Chiaraviglio, C. Filsfils, "[An Efficient Linux Kernel Implementation of Service Function Chaining for legacy VNFs based on IPv6 Segment Routing](https://arxiv.org/abs/1901.00936)", submitted paper under review 
 
-### SRNK (SR-Proxy Native Kernel)
+### SRNK (SR-Proxy Native Kernel) source code
 
-- [SR Proxy Linux](https://github.com/repo/sr-proxy-linux) is the...
-- [SR Proxy iproute](https://github.com/repo/sr-proxy-linux) is a...
+- [SRNK kernel implementation](https://github.com/netgroup/srnk-kernel) is the kernel space implementation (starting from 4.14.0)
+- [SRNK iproute2 tool implementation](https://github.com/netgroup/srnk-iproute2) is the implementation of the enhancements to iproute2 tool (starting from iproute2-ss171112)
 
-### The Team
+### The Developers' Team
 
-- Stefano Salsano
 - Andrea Mayer
-- Ahmed Abdelsalam
+- Stefano Salsano
 - Pier Luigi Ventre
+- Ahmed Abdelsalam
