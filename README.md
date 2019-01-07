@@ -1,2 +1,3 @@
-# sr-proxy
-An SR proxy for SR-unaware VNFs 
+# SR proxy Native Kernel
+
+An SR proxy for SR-unaware VNFs, integrated in Linux Kernel 
