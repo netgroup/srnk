@@ -4,6 +4,8 @@ The Segment Routing architecture can be implemented using MPLS or IPv6 as data p
 
 <img src="https://raw.githubusercontent.com/netgroup/sr-proxy/master/docs/srv6_processing.png" width="400">
 
+![srv6_processing.png](<./srv6_processing.png>)
+
 ### Scientific papers, technical reports, IETF drafts, Slides
 
 - A. Mayer, S. Salsano, P.L. Ventre, A. Abdelsalam, L. Chiaraviglio, C. Filsfils, "[An Efficient Linux Kernel Implementation of Service Function Chaining for legacy VNFs based on IPv6 Segment Routing](https://arxiv.org/abs/1901.00936)", submitted paper under review 
